@@ -2,7 +2,7 @@
 
 <!--img src='https://avatars.githubusercontent.com/u/34423757?v=4' width="20%"-->
 
-<img align="right" src="https://github.com/ErlinaAC/Images/blob/main/Profile.png" alt="Erlina Cahyadi" width="40.6%">
+<img align="right" src="https://github.com/ErlinaAC/Images/blob/main/Profile.png" alt="Erlina Cahyadi" width="33.4%">
 
 A Data Analytics & Visualisation Expert 📊
 
@@ -54,25 +54,25 @@ Below are some dashboards that I've created for fun!
 
   <!--Jitterfly -->
   <a href="https://public.tableau.com/app/profile/erlina6186/viz/WOW2023W19_16842646953310/WOW2023Week19">
-    <img src="https://github.com/ErlinaAC/Images/blob/main/%23WOW2023%20Week%2019.png" width ="30%">
+    <img src="https://github.com/ErlinaAC/Images/blob/main/%23WOW2023%20Week%2019.png" width ="31%">
   </a>
 
 
   <!--Rick and Morty-->
   <a href="https://public.tableau.com/app/profile/erlina6186/viz/RickandMortyAPIDashboardWeek/RickandMortyDash">
-    <img src="https://github.com/ErlinaAC/Images/blob/main/Rick%20and%20Morty%20Dash.png" width ="33.5%">
+    <img src="https://github.com/ErlinaAC/Images/blob/main/Rick%20and%20Morty%20Dash.png" width ="33%">
   </a>
 
 
   <!--Who is a Survivor-->
   <a href="https://public.tableau.com/app/profile/erlina6186/viz/SurvivorDash/WhoisaSurvivorDash">
-    <img src="https://github.com/ErlinaAC/Images/blob/main/Who%20is%20a%20Survivor%20Dash.png" width ="32%">
+    <img src="https://github.com/ErlinaAC/Images/blob/main/Who%20is%20a%20Survivor%20Dash.png" width ="33%">
   </a>
 
 
   <!--FixMyStreet-->
   <a href="https://public.tableau.com/app/profile/erlina6186/viz/FixMyStreetDashboard/Dashboard1">
-    <img src="https://github.com/ErlinaAC/Images/blob/main/FixMyStreet.png" width ="31.5%">
+    <img src="https://github.com/ErlinaAC/Images/blob/main/FixMyStreet.png" width ="31%">
   </a>
 
 <br>
@@ -80,7 +80,6 @@ Below are some dashboards that I've created for fun!
 
 ## Coursera Guided Projects ✨
 
-<br>
 
 
   <!--1. Data Preparation with Alteryx: Automating Alteryx-->
@@ -88,7 +87,7 @@ Below are some dashboards that I've created for fun!
   <img src="https://github.com/ErlinaAC/Images/blob/main/Coursera.png" align="right" width="55%">
 </a>
 
-
+<br> 
 
 On Coursera, I've created a guided project to help new users learn how to get started on Alteryx by walking through how to create data preparation workflows and automate them on the Alteryx Server.
 
@@ -96,6 +95,8 @@ On Coursera, I've created a guided project to help new users learn how to get st
 <br> 
 <br>
 <br>
+<br>
+<br> 
 <br>
 <br> 
 <br>
@@ -161,9 +162,9 @@ I graduated with a dual degree in Developmental Psychology and German, along wit
 
 Fresh out of college, I
 - Dove headfirst into the realms of PRIDE Health Research Consortium, COOP, and Kepler Academy, to sharpen my skills in both data analytics and marketing. 
-- Gave back to the community and guided future data analysts and captains for 2 years as a Data Analytics Executive captain at COOP Careers, a non-profit. 
+- Gave back to the community and guided future data analysts and captains for 2 years as a Data Analytics Executive captain at COOP Careers, a non-profit.
+- Enabled companies from different sectors such as Real Estate and Insurance develop storytelling dashboards and automated workflows, and perform Cloud migrations.
 - Became a Coursera instructor and authored a guided project to educate learners on how to get started on Alteryx. 
-- Enable companies from different sectors such as Real Estate and Insurance develop storytelling dashboards and automated workflows, and perform Cloud migrations.
 
 When I'm not creating dashboards and workflows, you'll find me at the rock climbing gym, skating on the ice, or playing with my cat. 😺
 
