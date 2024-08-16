@@ -2,7 +2,7 @@
 
 <!--img src='https://avatars.githubusercontent.com/u/34423757?v=4' width="20%"-->
 
-<img align="right" src="https://github.com/ErlinaAC/Images/blob/main/Profile.png" alt="Erlina Cahyadi" width="33.4%">
+<img align="right" src="https://github.com/ErlinaAC/Images/blob/main/Profile.png" alt="Erlina Cahyadi" width="35%">
 
 A Data Analytics & Visualisation Expert 📊
 
