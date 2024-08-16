@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/ErlinaCahyadi/Images/blob/main/Profile.png" alt="Erlina Cahyadi" width="36%">
 
-A Data Visualisation Expert 💡
+A Data Visualisation and Transformation Expert 💡
 
 I transform data using:
 - Alteryx
