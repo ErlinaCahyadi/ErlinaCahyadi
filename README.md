@@ -107,47 +107,44 @@ On Coursera, I've created a guided project to help new users learn how to get st
 <br>
 
 Below are some Alteryx projects that I've worked on in my career.
+<br>
+<br>
 
-  <!--Extract Refreshes-->
- 
-<!--
-   
-<a href="https://github.com/ErlinaAC/Images/blob/main/Extract%20Refreshes.png">
+Tableau Server to Cloud Migration
+
+1. Extract Refresh Migration
+
+   <a href="https://github.com/ErlinaAC/Images/blob/main/Extract%20Refreshes.png">
     <img src="https://github.com/ErlinaAC/Images/blob/main/Extract%20Refreshes.png" width="49%"">
 </a>
 
--->
+<br>
+<br>
 
+2. Subscription Migration
 
-  <!--Subscriptions-->
-
-<!--
-
-<a href="https://github.com/ErlinaAC/Images/blob/main/Subscriptions.png">
+  <a href="https://github.com/ErlinaAC/Images/blob/main/Subscriptions.png">
     <img src="https://github.com/ErlinaAC/Images/blob/main/Subscriptions.png" width="49%"">
 </a>
 
+<br>
+<br>
 
--->
+3. Users and User Groups Migration
 
-  <!--Users and User Groups-->
-
-<!--
 <a href="https://github.com/ErlinaAC/Images/blob/main/Users%20and%20User%20Groups.png">
     <img src="https://github.com/ErlinaAC/Images/blob/main/Users%20and%20User%20Groups.png" width="49%"">
-</a>   
+</a> 
 
--->
+<br>
+<br>
 
-  <!--Favorites-->
-
-<!--
+4. Favorites
 
 <a href="https://github.com/ErlinaAC/Images/blob/main/Favorites.png">
     <img src="https://github.com/ErlinaAC/Images/blob/main/Favorites.png" width="49%"">
 </a>   
 
--->
 
 <br>
 <br>
