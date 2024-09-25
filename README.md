@@ -148,6 +148,27 @@ Tableau Server to Cloud Migration
 
 <br>
 <br>
+<br>
+
+## Blogs 📖
+
+<br>
+
+Below are some blogs I've published.
+
+[The Data School NY Application Adventures of Erlina](https://www.thedataschool.co.uk/erlina-cahyadi/the-data-school-ny-application-adventures-of-erlina/)
+
+[GETting API Authorization with Basic Authentication on Alteryx](https://www.thedataschool.co.uk/erlina-cahyadi/getting-api-authorization-with-basic-authentication-on-alteryx/)
+
+[Creating Personal Access Tokens in Tableau Server/Cloud](https://www.thedataschool.co.uk/erlina-cahyadi/creating-personal-access-tokens-in-tableau-server-cloud/)
+
+[Retrieving an Access Token Through OAuth on Alteryx](https://www.thedataschool.co.uk/erlina-cahyadi/retrieving-an-access-token-through-oauth-on-alteryx/)
+
+[PUTting or POSTing Data Online Using APIs on Alteryx (Lever API)](https://www.thedataschool.co.uk/erlina-cahyadi/putting-or-posting-data-online-using-apis-on-alteryx-lever-api/)
+
+[Accessibility Dashboarding](https://www.thedataschool.co.uk/erlina-cahyadi/untitled-57/) 
+
+<br>
 
 
 ## About Me 🤗
