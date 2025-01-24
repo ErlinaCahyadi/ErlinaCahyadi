@@ -87,14 +87,32 @@ Below are some dashboards that I've created for fun!
   <img src="https://github.com/ErlinaAC/Images/blob/main/Coursera.png" align="right" width="55%">
 </a>
 
+<br>
+<br>
 <br> 
+<br>
 
-On Coursera, I've created a guided project to help new users learn how to get started on Alteryx by walking through how to create data preparation workflows and automate them on the Alteryx Server.
-
+On Coursera, I've created a guided project to help new users learn how to get started on Alteryx by walking through creating data preparation workflows and automating them on the Alteryx Server.
 
 <br> 
 <br>
+<br> 
 <br>
+<br> 
+<br>
+
+<!--2. Tableau Public for Beginners: Data Visualization Basics-->
+<a href="https://www.coursera.org/projects/tableau-public-for-beginners-data-visualization-basics">
+  <img src="https://github.com/ErlinaCahyadi/Images/blob/main/Tableau%20Course.png" align="right" width="55%">
+</a>
+
+<br> 
+
+I've created a guided project on Coursera to help new users learn how to get started on Tableau by walking through creating business dashboards using the free Tableau Public desktop application.
+
+<br>
+<br>
+<br> 
 <br>
 <br> 
 <br>
